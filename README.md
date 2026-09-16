@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1537-get-the-maximum-score) |
 | [1563-stone-game-v](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1563-stone-game-v) |
 | [1575-count-all-possible-routes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1575-count-all-possible-routes) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1872-stone-game-viii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1872-stone-game-viii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1927-sum-game) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1314-matrix-block-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1872-stone-game-viii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2381-shifting-letters-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2381-shifting-letters-ii) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2063-vowels-of-all-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2063-vowels-of-all-substrings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3312-sorted-gcd-pair-queries) |
