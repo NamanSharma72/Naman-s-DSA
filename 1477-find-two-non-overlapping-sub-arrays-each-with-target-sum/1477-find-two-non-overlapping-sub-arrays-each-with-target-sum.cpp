@@ -6,9 +6,7 @@ public:
         if(idx == vt.size()) return 1e9;
         if(dp[idx][k] != -1) return dp[idx][k];
         int skip = doit(idx +1 , vt , k);
-        int low = idx+1;
-        int high = vt.size()-1;
-        int index = vt.size();
+        int low = idx+1 , high = vt.size()-1 , index = vt.size();
         while(low <= high){
             int mid = low + ((high-low)/2);
             if(vt[mid].first > vt[idx].second){
@@ -28,9 +26,7 @@ public:
         for(int i = 0 ; i<arr.size() ; i++){
             sum+=arr[i];
             int left = sum - target;
-            if(mpp.find(left) != mpp.end()){
-                vt.push_back({mpp[left]+1 , i});
-            }
+            if(mpp.find(left) != mpp.end()) vt.push_back({mpp[left]+1 , i});
             mpp[sum] = i;
         }
         if(vt.size() <= 1) return -1;
