@@ -10,7 +10,7 @@ public:
             int points = (days *(days+1))/2;
             if(points > n) break;
             int ans;
-            if(n-points == 0) ans = days;
+            if(n-points == 0) ans = days + doit(n - points);
             else ans = 1 + days + doit(n - points);
             take = min(take , ans);
             days++;
