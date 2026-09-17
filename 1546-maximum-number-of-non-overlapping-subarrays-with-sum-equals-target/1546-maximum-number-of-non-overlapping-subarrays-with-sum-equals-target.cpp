@@ -16,7 +16,6 @@ public:
             }
             mpp[sum] = i;
         }
-        // if(mini == INT_MAX) return -1;
         return count;
     }
 };
