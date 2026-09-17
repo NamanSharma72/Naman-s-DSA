@@ -1,5 +1,10 @@
 class Solution {
 public:
+    int countOpr(vector<long long> &arr , int num){
+        int rightSide = lower_bound(arr.begin() , arr.end() , num) - arr.begin();
+        int leftSide = rightSide-1;
+        return min(abs(num - arr[rightSide]) , abs(num - arr[leftSide]));
+    }
     long long minOperations(vector<int>& nums) {
        static vector<long long> oddPal;
        static vector<long long> evenPal;
@@ -26,20 +31,8 @@ public:
        long long count = 0;
        for(int i = 0 ; i<nums.size() ; i++){
             if(nums[i] < 10) count+=0;
-            else if(nums[i]%2 == 0){
-                int rightSide = lower_bound(evenPal.begin() , evenPal.end() , nums[i]) - evenPal.begin();
-                int leftSide = rightSide-1;
-                int opr = 0;
-                opr = min(abs(nums[i] - evenPal[rightSide]) , abs(nums[i] - evenPal[leftSide]));
-                count+=opr;
-            }
-            else{
-                int rightSide = lower_bound(oddPal.begin() , oddPal.end() , nums[i]) - oddPal.begin();
-                int leftSide = rightSide-1;
-                int opr = 0;
-                opr = min(abs(nums[i] - oddPal[rightSide]) , abs(nums[i] - oddPal[leftSide]));
-                count+=opr;
-            }
+            else if(nums[i]%2 == 0) count+=countOpr(evenPal , nums[i]);
+            else count+=countOpr(oddPal , nums[i]);
        }
        return count/2;
     }
