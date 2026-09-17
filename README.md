@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1514-path-with-maximum-probability](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0778-swim-in-rising-water) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1631-path-with-minimum-effort](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1631-path-with-minimum-effort) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1649-create-sorted-array-through-instructions) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1510-stone-game-iv) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -783,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1695-maximum-erasure-value](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
