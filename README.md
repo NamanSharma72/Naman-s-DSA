@@ -768,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3223-minimum-length-of-string-after-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -951,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2679-sum-in-a-matrix) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |
