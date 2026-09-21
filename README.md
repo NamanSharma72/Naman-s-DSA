@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0047-permutations-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0064-minimum-path-sum) |
 | [0139-word-break](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0139-word-break) |
 | [0204-count-primes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0204-count-primes) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0115-distinct-subsequences) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0053-maximum-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0912-sort-an-array) |
