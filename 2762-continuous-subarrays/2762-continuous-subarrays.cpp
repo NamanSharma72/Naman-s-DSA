@@ -9,7 +9,7 @@ public:
             maxi.push_back(nums[r]);
             while(!mini.empty() && nums[r] < mini.back()) mini.pop_back();
             mini.push_back(nums[r]);
-            while(abs(maxi.front() - nums[r]) > 2 || abs(mini.front() - nums[r]) > 2){
+            while(maxi.front() - mini.front() > 2){
                 if(!maxi.empty() && nums[l] == maxi.front()) maxi.pop_front();
                 if(!mini.empty() && nums[l] == mini.front()) mini.pop_front();
                 l++;
