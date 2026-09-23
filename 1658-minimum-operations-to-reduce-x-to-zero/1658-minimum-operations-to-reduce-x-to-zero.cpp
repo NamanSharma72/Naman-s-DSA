@@ -1,22 +1,22 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
-        int ans = INT_MIN;
+        int maxSubSize = INT_MIN;
+        int l = 0 ,  r = 0;
+        int totalSum = accumulate(nums.begin() , nums.end() , 0);
+        if(x > totalSum) return -1;
+        int find = totalSum - x;
         int sum = 0;
-        unordered_map<int , int> mpp;
-        mpp[0] = -1;
-        int total = accumulate(nums.begin() , nums.end() , 0);
-        if(x == total) return nums.size();
-        int findSum = total-x;
-        for(int i = 0 ; i<nums.size() ; i++){
-            sum+=nums[i];
-            int left = sum - findSum;
-            if(mpp.find(left) != mpp.end()){
-                ans = max(ans , i - mpp[left]);
+        while(r < nums.size()){
+            sum+=nums[r];
+            while(sum > find){
+                sum-=nums[l];
+                l++;
             }
-            mpp[sum] = i;
+            if(sum == find) maxSubSize = max(maxSubSize , r-l+1);
+            r++;
         }
-        if(ans == INT_MIN) return -1;
-        return nums.size() - ans;
+        if(maxSubSize == INT_MIN) return -1;
+        return nums.size() - maxSubSize;
     }
 };
