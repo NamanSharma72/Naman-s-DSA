@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2679-sum-in-a-matrix) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2740-find-the-value-of-the-partition](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2740-find-the-value-of-the-partition) |
+| [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2679-sum-in-a-matrix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2679-sum-in-a-matrix) |
+| [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -848,11 +851,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -1053,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
