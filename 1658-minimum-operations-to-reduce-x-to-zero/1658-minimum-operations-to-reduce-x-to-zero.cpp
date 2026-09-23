@@ -1,28 +1,22 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
-        unordered_map<int , int> suffix;
+        int ans = INT_MIN;
         int sum = 0;
-        for(int i = nums.size()-1 ; i>=0 ; i--){
-            sum+=nums[i];
-            suffix[sum] = i;
-        }
-        int preSum = 0;
-        int mini = INT_MAX;
+        unordered_map<int , int> mpp;
+        mpp[0] = -1;
+        int total = accumulate(nums.begin() , nums.end() , 0);
+        if(x == total) return nums.size();
+        int findSum = total-x;
         for(int i = 0 ; i<nums.size() ; i++){
-            preSum+=nums[i];
-            if(preSum == x) mini = min(mini , i+1);
-            int left = x - preSum;
-            if(suffix.find(left) != suffix.end() && suffix[left] > i){
-                int size =  i+1 + (nums.size() - suffix[left]);
-                mini = min(mini , size);
+            sum+=nums[i];
+            int left = sum - findSum;
+            if(mpp.find(left) != mpp.end()){
+                ans = max(ans , i - mpp[left]);
             }
+            mpp[sum] = i;
         }
-        if(suffix.find(x) != suffix.end()){
-            int last = nums.size() - suffix[x];
-            mini = min(mini , last);
-        }
-        if(mini == INT_MAX) return -1;
-        return mini;
+        if(ans == INT_MIN) return -1;
+        return nums.size() - ans;
     }
 };
