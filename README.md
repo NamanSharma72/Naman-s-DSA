@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0508-most-frequent-subtree-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0606-construct-string-from-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0606-construct-string-from-binary-tree) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0853-car-fleet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0853-car-fleet) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0606-construct-string-from-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0606-construct-string-from-binary-tree) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0098-validate-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0508-most-frequent-subtree-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0606-construct-string-from-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0623-add-one-row-to-tree) |
