@@ -13,6 +13,7 @@ class Solution {
 public:
     int doit(TreeNode* Node , int &flag){
         if(Node == NULL) return 0;
+        if(flag == 1) return 1e9;
         int left = doit(Node->left , flag);
         int right = doit(Node->right , flag);
         if(abs(right - left) > 1) flag = 1;
@@ -20,7 +21,7 @@ public:
     }
     bool isBalanced(TreeNode* root) {
         int flag = 0;
-        doit(root , flag);
-        return !flag;
+        int ans = doit(root , flag);
+        return flag == 1 || ans >= 1e9 ? false : true;
     }
 };
