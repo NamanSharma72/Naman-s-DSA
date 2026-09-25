@@ -3,13 +3,10 @@ public:
     long long countInterestingSubarrays(vector<int>& nums, int modulo, int k) {
         int count = 0;
         vector<int> modK(nums.size());
-        // unordered_map<int , int> mpp;
         for(int i = 0 ; i<nums.size() ; i++){
             if(nums[i]%modulo == k) count++;
             modK[i] = count;
-            // if(mpp.find(count) == mpp.end()) mpp[count] = i;
         }
-        for(int i = 0 ; i<nums.size() ; i++) cout << modK[i] << " ";
         long long finalAns = 0;
         unordered_map<int , int> mpp1;
         int count1 = 0;
