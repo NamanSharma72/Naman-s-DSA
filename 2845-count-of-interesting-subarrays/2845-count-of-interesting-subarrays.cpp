@@ -11,10 +11,10 @@ public:
         unordered_map<int , int> mpp1;
         int count1 = 0;
         for(int i = 0 ; i<nums.size() ; i++){
-            if(modK[i]%modulo == k) finalAns++;
-            int left = (modK[i]-k)%modulo;
-            if(mpp1.find(left) != mpp1.end()) finalAns+=mpp1[left];
             if(nums[i]%modulo == k) count1++;
+            if(count1%modulo == k) finalAns++;
+            int left = (count1-k)%modulo;
+            if(mpp1.find(left) != mpp1.end()) finalAns+=mpp1[left];
             mpp1[count1%modulo]++;
         }
         return finalAns;
