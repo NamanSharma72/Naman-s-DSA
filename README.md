@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0436-find-right-interval) |
 | [0486-predict-the-winner](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0486-predict-the-winner) |
+| [0491-non-decreasing-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -586,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0139-word-break) |
+| [0491-non-decreasing-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0508-most-frequent-subtree-sum) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0740-delete-and-earn](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0740-delete-and-earn) |
@@ -833,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0052-n-queens-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0773-sliding-puzzle](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0996-number-of-squareful-arrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0996-number-of-squareful-arrays) |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0491-non-decreasing-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
