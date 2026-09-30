@@ -15,18 +15,9 @@ public:
             }
             else l = mid+1;
         }
-        if(flag == 0) {
-            take-=(meetings[idx][1]);
-        }
-        else if(flag == 1){
-            if(index == meetings.size()){
-                take+=meetings[idx][0];
-            }
-            else{
-                take+=meetings[idx][0];
-                take-=(meetings[idx][1]);
-            }
-        }
+        if(flag == 0) take-=(meetings[idx][1]);
+        else if(flag == 1 && index == meetings.size()) take+=meetings[idx][0];
+        else if(flag == 1 && index != meetings.size()) take+=(meetings[idx][0] - meetings[idx][1]);
         take+=doit(index , meetings , 1);
         return dp[idx][flag] = max(take , skip);
     }
