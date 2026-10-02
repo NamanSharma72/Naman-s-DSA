@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0091-decode-ways) |
@@ -785,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0132-palindrome-partitioning-ii) |
@@ -843,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0022-generate-parentheses) |
 | [0047-permutations-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0090-subsets-ii) |
@@ -1194,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
