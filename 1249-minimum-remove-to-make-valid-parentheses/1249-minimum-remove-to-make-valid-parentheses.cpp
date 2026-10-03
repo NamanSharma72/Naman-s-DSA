@@ -2,19 +2,15 @@ class Solution {
 public:
     string minRemoveToMakeValid(string s) {
         stack<int> st;
-        st.push(-1);
         for(int i = 0 ; i<s.size() ; i++){
             if(s[i] == '(') st.push(i);
             else if(s[i] == ')'){
-                st.pop();
-                if(st.empty()){
-                    s[i] = '?';
-                    st.push(i);
-                }
+                if(!st.empty()) st.pop();
+                else s[i] = '?';
             }
         }
         while(!st.empty()){
-            if(st.top() >= 0) s[st.top()] = '?';
+            s[st.top()] = '?';
             st.pop();
         }
         string ans = "";
