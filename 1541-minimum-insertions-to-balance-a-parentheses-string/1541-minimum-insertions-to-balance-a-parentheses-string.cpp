@@ -36,7 +36,6 @@ public:
                 open.pop();
             }
         }
-
         return ans + 2*(open.size() + adhura.size());
     }
 };
