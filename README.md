@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1537-get-the-maximum-score) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1745-palindrome-partitioning-iv](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1745-palindrome-partitioning-iv) |
@@ -1227,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
