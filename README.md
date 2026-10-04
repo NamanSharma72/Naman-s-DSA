@@ -520,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 ## Greedy
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1927-sum-game) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2029-stone-game-ix) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2063-vowels-of-all-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2109-adding-spaces-to-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2262-total-appeal-of-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2262-total-appeal-of-a-string) |
@@ -1225,5 +1228,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
