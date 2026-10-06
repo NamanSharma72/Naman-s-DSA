@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1034-coloring-a-border](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1034-coloring-a-border) |
 | [1046-last-stone-weight](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1202-smallest-string-with-swaps) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1254-number-of-closed-islands) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1012-numbers-with-repeated-digits](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1012-numbers-with-repeated-digits) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1049-last-stone-weight-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
 | [1278-palindrome-partitioning-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1278-palindrome-partitioning-iii) |
@@ -1215,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0322-coin-change) |
+| [1049-last-stone-weight-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1238,4 +1241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
