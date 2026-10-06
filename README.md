@@ -515,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1402-reducing-dishes) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0763-partition-labels) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0856-score-of-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
@@ -1229,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
