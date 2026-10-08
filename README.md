@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0773-sliding-puzzle) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0740-delete-and-earn) |
 | [0773-sliding-puzzle](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0773-sliding-puzzle) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0763-partition-labels) |
 | [0781-rabbits-in-forest](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0781-rabbits-in-forest) |
 | [0846-hand-of-straights](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0846-hand-of-straights) |
