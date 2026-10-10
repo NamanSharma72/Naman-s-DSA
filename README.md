@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2284-sender-with-largest-word-count](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2284-sender-with-largest-word-count) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1631-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2679-sum-in-a-matrix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2679-sum-in-a-matrix) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -795,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2679-sum-in-a-matrix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2740-find-the-value-of-the-partition) |
