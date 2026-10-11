@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2740-find-the-value-of-the-partition](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2740-find-the-value-of-the-partition) |
 | [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2845-count-of-interesting-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2845-count-of-interesting-subarrays) |
@@ -974,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
