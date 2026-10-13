@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0773-sliding-puzzle) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0853-car-fleet) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
