@@ -10,14 +10,18 @@ public:
         doit(idx+1 ,  nums , maxi , xo);
     }
     int countMaxOrSubsets(vector<int>& nums) {
-        vector<int> freq(32 , 0);
-        for(int i = 0 ; i<nums.size() ; i++){
-            for(int bits = 0 ; bits <= 31 ; bits++){
-                if(nums[i] & (1 << bits)) freq[bits]++;
-            }
-        }
+        // vector<int> freq(32 , 0);
+        // for(int i = 0 ; i<nums.size() ; i++){
+        //     for(int bits = 0 ; bits <= 31 ; bits++){
+        //         if(nums[i] & (1 << bits)) freq[bits]++;
+        //     }
+        // }
+        // int maxi = 0;
+        // for(int i = 0 ; i<=31 ; i++) if(freq[i]) maxi |= (1 << i);
         int maxi = 0;
-        for(int i = 0 ; i<=31 ; i++) if(freq[i]) maxi |= (1 << i);
+        for(int i = 0 ; i<nums.size() ; i++){
+            maxi |= nums[i];
+        }
         doit(0 , nums , maxi , 0);
         return count;
     }
