@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3620-network-recovery-pathways) |
 | [3686-number-of-stable-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3731-find-missing-elements) |
 ## Bucket Sort
 |  |
