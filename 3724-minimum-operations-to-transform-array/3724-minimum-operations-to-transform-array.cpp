@@ -16,12 +16,8 @@ public:
                 mini = min(mini , use);
             }
 
-            if(nums2[i] > nums2[nums2.size()-1] && nums2[nums2.size()-1] > nums1[i]){
-                mini = min(mini , 0);
-            }
-
-            if(nums2[i] < nums2[nums2.size()-1] && nums2[nums2.size()-1] < nums1[i]){
-                mini = min(mini , 0);
+            if((nums2[i] > nums2[nums2.size()-1] && nums2[nums2.size()-1] > nums1[i]) || (nums2[i] < nums2[nums2.size()-1] && nums2[nums2.size()-1] < nums1[i])){
+                mini = 0;
             }
         }
         return ans + mini;
