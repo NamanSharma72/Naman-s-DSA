@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3620-network-recovery-pathways) |
 | [3686-number-of-stable-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3686-number-of-stable-subsequences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3724-minimum-operations-to-transform-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3724-minimum-operations-to-transform-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
