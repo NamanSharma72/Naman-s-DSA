@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2826-sorting-three-groups](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2826-sorting-three-groups) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2845-count-of-interesting-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2845-count-of-interesting-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2826-sorting-three-groups](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2826-sorting-three-groups) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2719-count-of-integers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2719-count-of-integers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2801-count-stepping-numbers-in-range) |
+| [2826-sorting-three-groups](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2826-sorting-three-groups) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
