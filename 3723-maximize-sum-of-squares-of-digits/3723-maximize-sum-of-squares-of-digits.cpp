@@ -8,17 +8,19 @@ public:
                 ans+='9';
                 sum-=9;
             }
-            else{
+            else if(sum > 0){
                 ans+=(sum + '0');
                 sum = 0;
             }
-            if(sum == 0) break;
+            else{
+                ans+='0';
+            }
         }
-        int left = num - ans.size();
-        while(left > 0){
-            ans+='0';
-            left--;
-        }
+        // int left = num - ans.size();
+        // while(left > 0){
+        //     ans+='0';
+        //     left--;
+        // }
         return ans;
     }
 };
