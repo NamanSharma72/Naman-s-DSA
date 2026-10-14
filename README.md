@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3618-split-array-by-prime-indices) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3871-count-commas-in-range-ii) |
