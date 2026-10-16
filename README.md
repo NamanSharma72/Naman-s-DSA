@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1818-minimum-absolute-sum-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1818-minimum-absolute-sum-difference) |
 | [1872-stone-game-viii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1649-create-sorted-array-through-instructions](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1818-minimum-absolute-sum-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1818-minimum-absolute-sum-difference) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1818-minimum-absolute-sum-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1818-minimum-absolute-sum-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2008-maximum-earnings-from-taxi](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2054-two-best-non-overlapping-events](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -1234,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1649-create-sorted-array-through-instructions) |
+| [1818-minimum-absolute-sum-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1818-minimum-absolute-sum-difference) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
 ## Dijkstra's Algorithm
