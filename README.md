@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1034-coloring-a-border](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1034-coloring-a-border) |
+| [1035-uncrossed-lines](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1035-uncrossed-lines) |
 | [1046-last-stone-weight](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1202-smallest-string-with-swaps](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1202-smallest-string-with-swaps) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0996-number-of-squareful-arrays) |
 | [1012-numbers-with-repeated-digits](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1012-numbers-with-repeated-digits) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1035-uncrossed-lines](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1035-uncrossed-lines) |
 | [1049-last-stone-weight-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1049-last-stone-weight-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1269-number-of-ways-to-stay-in-the-same-place-after-some-steps](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1269-number-of-ways-to-stay-in-the-same-place-after-some-steps) |
@@ -1327,4 +1329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1035-uncrossed-lines](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1035-uncrossed-lines) |
 <!---LeetCode Topics End-->
