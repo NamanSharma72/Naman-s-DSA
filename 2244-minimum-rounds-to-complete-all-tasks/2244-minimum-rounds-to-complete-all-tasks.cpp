@@ -7,8 +7,7 @@ public:
         for(auto &it : freq){
             if(it.second == 1) return -1;
             int count = it.second/3;
-            int left = it.second - count*3;
-            if(left > 0) count++;
+            if(it.second%3 != 0) count++;
             ans+=count;
         }
         return ans;
