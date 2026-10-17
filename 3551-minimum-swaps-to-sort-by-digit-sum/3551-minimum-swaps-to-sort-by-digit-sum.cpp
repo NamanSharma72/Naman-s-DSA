@@ -17,7 +17,6 @@ public:
         }
         vector<pair<int , int>> helper = use;
         sort(helper.begin() , helper.end() ,  cmp);
-        // for(int i = 0 ; i<helper.size() ; i++) cout << helper[i].first << " " << helper[i].second << endl;
         unordered_map<int , int> mpp;
         for(int i = 0 ; i<use.size() ; i++) mpp[use[i].second] = i;
         int count = 0;
