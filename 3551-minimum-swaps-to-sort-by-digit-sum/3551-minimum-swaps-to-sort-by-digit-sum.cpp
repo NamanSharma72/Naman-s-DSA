@@ -3,6 +3,7 @@ public:
     int minSwaps(vector<int>& nums) {
         vector<pair<int , int>>  use(nums.size());
         unordered_map<int , int> mpp;
+        mpp.reserve(nums.size());
         for(int i = 0 ; i<nums.size() ; i++){
             int sum = 0 , num = nums[i];
             while(num != 0){
