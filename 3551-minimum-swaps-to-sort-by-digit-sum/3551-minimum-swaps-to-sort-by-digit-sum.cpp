@@ -1,9 +1,9 @@
 class Solution {
 public:
-    static bool cmp(const pair<int,int> &a , const pair<int,int> &b){
-        if(a.first == b.first) return a.second < b.second;
-        return a.first < b.first;
-    }
+    // static bool cmp(const pair<int,int> &a , const pair<int,int> &b){
+    //     if(a.first == b.first) return a.second < b.second;
+    //     return a.first < b.first;
+    // }
     int minSwaps(vector<int>& nums) {
         vector<pair<int , int>>  use;
         for(int i = 0 ; i<nums.size() ; i++){
@@ -16,7 +16,7 @@ public:
             use.push_back({sum , nums[i]});
         }
         vector<pair<int , int>> helper = use;
-        sort(helper.begin() , helper.end() ,  cmp);
+        sort(helper.begin() , helper.end());
         unordered_map<int , int> mpp;
         for(int i = 0 ; i<use.size() ; i++) mpp[use[i].second] = i;
         int count = 0;
