@@ -10,10 +10,10 @@ public:
             else smaller.push_back(nums[i]);
         }
         int n = nums.size()-1 , r = smaller.size();
-        long long ans = combi[n][r];
-        ans = (ans * doit(bigger))%mod;
-        ans = (ans * doit(smaller))%mod;
-        return ans;
+        // long long ans = combi[n][r];
+        // ans = (ans * doit(bigger))%mod;
+        // ans = (ans * doit(smaller))%mod;
+        return ((combi[n][r] * doit(smaller))%mod * doit(bigger))%mod;
     }
     int numOfWays(vector<int>& nums) {
         for(int i = 0 ; i<=1000 ; i++){
