@@ -6,18 +6,11 @@ public:
         int row = 0 , col = 0;
         while(true){
             int newRow = row , newCol = col;
-            if(grid[row][col] == 'L'){
-                newCol--;
-            }
-            else if(grid[row][col] == 'R'){
-                newCol++;
-            }
-            else if(grid[row][col] == 'U'){
-                newRow--;
-            }
+            if(grid[row][col] == 'L') newCol--;
+            else if(grid[row][col] == 'R') newCol++;
+            else if(grid[row][col] == 'U') newRow--;
             else newRow++;
-            if(newRow < 0 || newCol < 0 || newRow >= m || newCol >= n) break;
-            if(visited[newRow][newCol]) break;
+            if(newRow < 0 || newCol < 0 || newRow >= m || newCol >= n || visited[newRow][newCol]) break;
             visited[row][col] = 1;
             row = newRow;
             col = newCol;
