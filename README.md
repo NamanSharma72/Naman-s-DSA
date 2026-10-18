@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1537-get-the-maximum-score) |
 | [1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1546-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1563-stone-game-v](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1575-count-all-possible-routes) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1631-path-with-minimum-effort) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1537-get-the-maximum-score) |
 | [1563-stone-game-v](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1575-count-all-possible-routes) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1745-palindrome-partitioning-iv](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1745-palindrome-partitioning-iv) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1872-stone-game-viii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1872-stone-game-viii) |
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1649-create-sorted-array-through-instructions](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1649-create-sorted-array-through-instructions) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -965,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0139-word-break) |
 | [0773-sliding-puzzle](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0773-sliding-puzzle) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1575-count-all-possible-routes) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Sliding Window
@@ -995,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2063-vowels-of-all-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2063-vowels-of-all-substrings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1118,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -1152,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1609-even-odd-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -1160,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0098-validate-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Simulation
 |  |
 | ------- |
@@ -1350,4 +1360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1035-uncrossed-lines](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1035-uncrossed-lines) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
