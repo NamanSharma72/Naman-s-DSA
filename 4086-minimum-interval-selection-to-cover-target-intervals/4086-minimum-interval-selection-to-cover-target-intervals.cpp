@@ -22,21 +22,12 @@ public:
             }
             else mergedAvailable.push_back(availableIntervals[i]);
         }
-        for(int i = 0 ; i<mergedTargets.size() ; i++){
-            cout << mergedTargets[i][0] << " " << mergedTargets[i][1] << endl;
-        }
-        cout << endl;
-        cout << endl;
-        for(int i = 0 ; i<mergedAvailable.size() ; i++){
-            cout << mergedAvailable[i][0] << " " << mergedAvailable[i][1] << endl;
-        }
         int aval = 0 , tar = 0;
         int count = 0;
         int prev = -1;
         while(tar < mergedTargets.size() && aval < mergedAvailable.size()){
             if(mergedAvailable[aval][0] > mergedTargets[tar][0]) return -1;
             else if(aval+1 < mergedAvailable.size() && mergedAvailable[aval+1][0] <= mergedTargets[tar][0] && mergedAvailable[aval+1][1] >= mergedTargets[tar][1] && prev != aval){
-                // prev = aval;
                 aval++;
             }
             else if(mergedTargets[tar][0] >= mergedAvailable[aval][0] && mergedTargets[tar][1] <= mergedAvailable[aval][1]){
