@@ -6,10 +6,8 @@ public:
         for(int i = 0 ; i<arr.size() ; i++){
             sum+=arr[i];
             int original = (i * (i+1))/2;
-            if(original != sum){
-                count++;
-            }
+            if(original == sum) count++;
         }
-        return arr.size() - count;
+        return count;
     }
 };
