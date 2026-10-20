@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3840-house-robber-v](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3840-house-robber-v) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3871-count-commas-in-range-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -885,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1057,6 +1060,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Number Theory
 |  |
 | ------- |
