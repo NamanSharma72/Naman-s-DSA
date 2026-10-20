@@ -11,7 +11,7 @@ public:
             sum+=use[i];
             originalsum+=arr[i];
             maxi = max(maxi , arr[i]);
-            if(maxi == use[i] && originalsum == sum) count++;
+            if(originalsum == sum) count++;
         }
         return count;
     }
