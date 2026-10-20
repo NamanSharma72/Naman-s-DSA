@@ -37,7 +37,6 @@ public:
                 }
                 if(flag == 0) ans+=i;
             }
-
         }
         return ans;
     }
