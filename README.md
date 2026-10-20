@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0781-rabbits-in-forest](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0781-rabbits-in-forest) |
+| [0829-consecutive-numbers-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0877-stone-game) |
 | [0996-number-of-squareful-arrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0996-number-of-squareful-arrays) |
@@ -1051,6 +1052,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0204-count-primes) |
+| [0829-consecutive-numbers-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0829-consecutive-numbers-sum) |
 | [1291-sequential-digits](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1291-sequential-digits) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2094-finding-3-digit-even-numbers) |
