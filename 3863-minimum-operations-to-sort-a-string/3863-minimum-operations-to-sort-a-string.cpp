@@ -10,9 +10,14 @@ public:
             if(s[0] == mini) return 0;
             return -1;
         }
-        string sorted = s;
-        sort(sorted.begin() , sorted.end());
-        if(sorted == s) return 0;
+        int flag = 0;
+        for(int i = 1 ; i<s.size() ; i++){
+            if(s[i] < s[i-1]){
+                flag = 1;
+                break;
+            }
+        }
+        if(flag == 0) return 0;
         if(s[0] == mini || s[s.size()-1] == maxi) return 1;
         for(int i = 1 ; i<s.size()-1 ; i++){
             if(s[i] == maxi || s[i] == mini) return 2;
