@@ -2,15 +2,7 @@ class Solution {
 public:
     int minOperations(vector<int>& nums) {
         int n = nums.size();
-        if(nums.size() == 1) return 0;
-        int flag = 0;
-        for(int i = 0 ; i<nums.size() ; i++){
-            if(i != nums[i]){
-                flag = 1;
-                break;
-            }
-        }
-        if(flag == 0) return 0;
+        if (is_sorted(nums.begin(), nums.end())) return 0;
         int pos0 = 0;
         for(int i = 0 ; i<nums.size() ; i++){
             int first = 0 , second = 0;
