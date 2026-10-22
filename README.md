@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3840-house-robber-v](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3840-house-robber-v) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
