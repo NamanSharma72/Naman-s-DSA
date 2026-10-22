@@ -18,7 +18,6 @@ public:
             return min(pos0 , n-pos0+2);
         }
         if(nums[pos0+1] == 1) return min(pos0 , n-pos0+2);
-        else return min(n-pos0 , pos0+2);
-        return 0;
+        return min(n-pos0 , pos0+2);
     }
 };
