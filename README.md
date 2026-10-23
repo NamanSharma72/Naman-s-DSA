@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2381-shifting-letters-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2381-shifting-letters-ii) |
+| [2401-longest-nice-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2401-longest-nice-subarray) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -1026,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1695-maximum-erasure-value) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2401-longest-nice-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2401-longest-nice-subarray) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1122,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2401-longest-nice-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2401-longest-nice-subarray) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3011-find-if-array-can-be-sorted](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3011-find-if-array-can-be-sorted) |
