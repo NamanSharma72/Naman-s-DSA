@@ -19,10 +19,10 @@ public:
     int getMaximumGold(vector<vector<int>>& grid) {
         int maxi = 0;
         int m = grid.size() , n = grid[0].size();
+        vector<vector<int>> visited(m , vector<int>(n));
         for(int i = 0 ; i<m ; i++){
             for(int j = 0 ; j<n ; j++){
                 if(grid[i][j] != 0){
-                    vector<vector<int>> visited(m , vector<int>(n));
                     int value = doit(i , j , m , n , visited , grid);
                     maxi = max(maxi , value);
                 }
