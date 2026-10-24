@@ -1,44 +1,43 @@
-
 class Solution {
 public:
     vector<double> medianSlidingWindow(vector<int>& nums, int k) {
-        multiset<int> left, right;
+        multiset<int> minSet , maxSet;
         vector<double> ans;
-        auto balance = [&]() {
-            while (left.size() > right.size() + 1) {
-                right.insert(*left.rbegin());
-                left.erase(prev(left.end()));
+        auto balance = [&](){
+            while(maxSet.size() > minSet.size() + 1){
+                minSet.insert(*(prev(maxSet.end())));
+                maxSet.erase(prev(maxSet.end()));
             }
-            while (left.size() < right.size()) {
-                left.insert(*right.begin());
-                right.erase(right.begin());
+            while(minSet.size() > maxSet.size()){
+                maxSet.insert(*(minSet.begin()));
+                minSet.erase(minSet.begin());
             }
         };
-        for (int r = 0; r < nums.size(); r++) {
-            if (left.empty() || nums[r] <= *left.rbegin()) {
-                left.insert(nums[r]);
-            } else {
-                right.insert(nums[r]);
+        for(int i = 0 ; i<nums.size() ; i++){
+            if(maxSet.empty() || nums[i] <= *(prev(maxSet.end()))){
+                maxSet.insert(nums[i]);
             }
+            else minSet.insert(nums[i]);
             balance();
-            // Remove the element that leaves the window.
-            if (r >= k) {
-                int outgoing = nums[r - k];
-                auto it = left.find(outgoing);
-                if (it != left.end()) left.erase(it);  // Erase only one occurrence.
-                else right.erase(right.find(outgoing));
+            if(i >= k){
+                int toRemove = nums[i-k];
+                auto it = maxSet.find(toRemove);
+                if(it != maxSet.end()) maxSet.erase(it);
+                else{
+                    auto it2 = minSet.find(toRemove);
+                    minSet.erase(it2);
+                }
                 balance();
             }
-            // Calculate the median once the window is full.
-            if (r >= k - 1) {
-                if (k % 2 == 1) {
-                    ans.push_back((double)*left.rbegin());
-                } else {
-                    double median =
-                        ((double)*left.rbegin() + *right.begin()) / 2.0;
-
-                    ans.push_back(median);
+            if(i >= k-1){
+                double median;
+                if(maxSet.size() > minSet.size()){
+                    median = (double)(*(prev(maxSet.end())));
                 }
+                else{
+                    median = ((double)*minSet.begin() + *(prev(maxSet.end())))/2.0;
+                }
+                ans.push_back(median);
             }
         }
         return ans;
