@@ -1427,4 +1427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0295-find-median-from-data-stream) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
