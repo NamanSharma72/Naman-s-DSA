@@ -1,26 +1,25 @@
 class Solution {
 public:
-    int countDaysTogether(string arriveAlice, string leaveAlice, string arriveBob, string leaveBob) {
-        int alicearriveMonth = stoi(arriveAlice.substr(0 , 2));
-        int bobarriveMonth = stoi(arriveBob.substr(0 , 2));
-        int alicearriveDay = stoi(arriveAlice.substr(3, 2));
-        int bobarriveDay = stoi(arriveBob.substr(3, 2));
-        int aliceleaveMonth = stoi(leaveAlice.substr(0 , 2));
-        int bobleaveMonth = stoi(leaveBob.substr(0 , 2));
-        int aliceleaveDay = stoi(leaveAlice.substr(3, 2));
-        int bobleaveDay = stoi(leaveBob.substr(3, 2));
-        vector<int> use = {
-            0, 31, 59, 90, 120, 151,
-            181, 212, 243, 273, 304, 334
-        };
-pair<int , int> alice = {use[alicearriveMonth-1] + alicearriveDay , use[aliceleaveMonth-1] + aliceleaveDay};
+    int countDaysTogether(string arriveAlice, string leaveAlice,
+                          string arriveBob, string leaveBob) {
+        vector<int> datesOfMonths = {31, 28, 31, 30, 31, 30,
+                                     31, 31, 30, 31, 30, 31};
+        vector<int> prefixSum(1, 0);
+        for (int date : datesOfMonths) {
+            prefixSum.emplace_back(prefixSum.back() + date);
+        }
 
-pair<int , int> bob = {use[bobarriveMonth-1]  +  bobarriveDay  , use[bobleaveMonth-1] + bobleaveDay};
-        int start = max(alice.first, bob.first);
-        int end = min(alice.second, bob.second);
+        int arriveAliceDay = calculateDayOfYear(arriveAlice, prefixSum);
+        int leaveAliceDay = calculateDayOfYear(leaveAlice, prefixSum);
+        int arriveBobDay = calculateDayOfYear(arriveBob, prefixSum);
+        int leaveBobDay = calculateDayOfYear(leaveBob, prefixSum);
+        return max(0, min(leaveAliceDay, leaveBobDay) -
+                          max(arriveAliceDay, arriveBobDay) + 1);
+    }
 
-return max(0, end - start + 1);
-
-       
+    int calculateDayOfYear(const string& day, const vector<int>& prefixSum) {
+        int month = stoi(day.substr(0, 2));
+        int date = stoi(day.substr(3));
+        return prefixSum[month - 1] + date;
     }
 };
