@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0990-satisfiability-of-equality-equations) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [0996-number-of-squareful-arrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0996-number-of-squareful-arrays) |
+| [1004-max-consecutive-ones-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1034-coloring-a-border](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1034-coloring-a-border) |
 | [1035-uncrossed-lines](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1035-uncrossed-lines) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0436-find-right-interval) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0778-swim-in-rising-water](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0778-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -840,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0930-binary-subarrays-with-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1004-max-consecutive-ones-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1314-matrix-block-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1314-matrix-block-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -1026,6 +1029,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1004-max-consecutive-ones-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
