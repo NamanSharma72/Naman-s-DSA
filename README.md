@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3618-split-array-by-prime-indices](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3618-split-array-by-prime-indices) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3686-number-of-stable-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3686-number-of-stable-subsequences) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
