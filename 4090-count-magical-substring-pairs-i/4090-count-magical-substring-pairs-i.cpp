@@ -1,22 +1,22 @@
 class Solution {
 public:
     int countMagicalPairs(string s) {
-        int count = 0;
-        for(int i = 0 ; i<s.size() ; i++){
-            vector<int> freq(26 , 0);
-            unordered_map<int , int> store;
-            int distinct = 0;
-            for(int j = i ; j>=0 ; j--){
-                if(freq[s[j]-'a'] == 0) distinct++;
-                store[distinct]++;
-                freq[s[j]-'a']++;
+        int size = s.size() , count = 0;
+        for(int j = 0 ; j<size ; j++){
+            unordered_map<int , int> freqDistinctIJ;
+            int countDistinctIJ = 0;
+            vector<int> freqIJ(26 , 0);
+            for(int i = j ; i>=0 ; i--){
+                if(freqIJ[s[i]-'a'] == 0) countDistinctIJ++;
+                freqIJ[s[i]-'a']++;
+                freqDistinctIJ[countDistinctIJ]++;
             }
-            vector<int> freq2(26 , 0);
-            int distinct2 = 0;
-            for(int k = i+1 ; k<s.size() ; k++){
-                if(freq2[s[k]-'a'] == 0) distinct2++;
-                if(store.find(distinct2) != store.end()) count+=store[distinct2];
-                freq2[s[k]-'a']++;
+            int countDistinctJK = 0;
+            vector<int> freqJK(26 , 0);
+            for(int k = j+1 ; k<size ; k++){
+                if(freqJK[s[k]-'a'] == 0) countDistinctJK++;
+                freqJK[s[k]-'a']++;
+                count+=freqDistinctIJ[countDistinctJK];
             }
         }
         return count;
