@@ -7,10 +7,6 @@ public:
         for(int i = 0 ; i<26 ; i++){
             if(freq[i] > 0) qt.push({freq[i] , i+'a'});
         }
-        // while(!qt.empty()){
-        //     cout << qt.top().first << " " << qt.top().second << endl;
-        //     qt.pop();
-        // }
         string ans = "";
         for(int i = 0; i<s.size() ; i++){
             if(i == 0){
