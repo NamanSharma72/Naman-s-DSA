@@ -2,8 +2,6 @@ class Solution {
 public:
     int minCost(vector<vector<int>>& grid) {
         int m = grid.size() , n = grid[0].size();
-        // vector<vector<vector<int>>> dp(m , vector<vector<int>>(n , vector<int>(1024 , 0)));
-        vector<vector<int>> next(n , vector<int>(1024 , 0));
         vector<vector<int>> curr(n , vector<int>(1024 , 0));
         for(int xo = 0 ; xo<1024 ; xo++) curr[n-1][xo] = xo;
         for(int i = m-1 ; i>=0 ; i--){
@@ -11,13 +9,12 @@ public:
                 if(i == m-1 && j == n-1) continue;
                 for(int xo = 0 ; xo < 1024 ; xo++){
                     int right = 1e9 , down = 1e9;
-                    if(i+1 < m) down = next[j][xo^grid[i+1][j]];
+                    if(i+1 < m) down = curr[j][xo^grid[i+1][j]];
                     if(j+1 < n) right = curr[j+1][xo^grid[i][j+1]];
                     curr[j][xo] = min(down , right);
                 }
             }
-            swap(curr , next);
         }
-        return next[0][grid[0][0]];
+        return curr[0][grid[0][0]];
     }
 };
