@@ -1,21 +1,22 @@
 class Solution {
 public:
-    int doit(int currx , int curry , int endx , int endy , vector<vector<int>>& grid , int xo , vector<vector<vector<int>>> &dp){
-        if(currx == endx-1 && curry == endy-1) return xo ^ grid[currx][curry];
-        xo = xo ^ grid[currx][curry];
-        if(dp[currx][curry][xo] != -1) return dp[currx][curry][xo];
-        int right =  1e9 , down = 1e9;
-        if(currx+1 < endx){
-            down = doit(currx+1 , curry , endx , endy , grid , xo  , dp);
-        } 
-        if(curry+1 < endy){
-            right = doit(currx , curry+1 , endx , endy , grid , xo , dp);
-        }
-        return dp[currx][curry][xo] = min(right , down);
-    }
     int minCost(vector<vector<int>>& grid) {
         int m = grid.size() , n = grid[0].size();
-        vector<vector<vector<int>>> dp(m , vector<vector<int>>(n , vector<int>(1025 , -1)));
-        return doit(0 , 0 , m , n , grid , 0 , dp);
+        vector<vector<vector<int>>> dp(m , vector<vector<int>>(n , vector<int>(1024 , 0)));
+        for(int xo = 0 ; xo<1024 ; xo++){
+            dp[m-1][n-1][xo] = xo;
+        }
+        for(int i = m-1 ; i>=0 ; i--){
+            for(int j = n-1 ; j>=0 ; j--){
+                if(i == m-1 && j == n-1) continue;
+                for(int xo = 0 ; xo < 1024 ; xo++){
+                    int right = 1e9 , down = 1e9;
+                    if(i+1 < m) down = dp[i+1][j][xo^grid[i+1][j]];
+                    if(j+1 < n) right = dp[i][j+1][xo^grid[i][j+1]];
+                    dp[i][j][xo] = min(down , right);
+                }
+            }
+        }
+        return dp[0][0][grid[0][0]];
     }
 };
