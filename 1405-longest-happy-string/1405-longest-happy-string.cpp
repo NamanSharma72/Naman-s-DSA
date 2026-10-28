@@ -6,7 +6,7 @@ public:
         if(b > 0) qt.push({b , 'b'});
         if(c > 0) qt.push({c , 'c'});
         string ans = "";
-        while(!qt.empty() && (a > 0 || b > 0 || c > 0)){
+        while(!qt.empty()){
             if(ans.empty()){
                 pair<int , char> tope = qt.top();
                 qt.pop();
