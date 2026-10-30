@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select st.student_id , st.student_name , s.subject_name , count(e.student_id) as attended_exams
+select st.student_id , st.student_name , s.subject_name , count(e.subject_name) as attended_exams
 from students st
 cross join subjects s
 left join examinations e
