@@ -2,7 +2,9 @@ class Solution {
 public:
     // directions are 0 , 1 , 2 , 3
     vector<pair<int , int>> dir = {{-1 , 1} , {1 , 1} , {1 , -1} , {-1 , -1}};
+    int dp[500][500][4][2];
     int doit(int currx , int curry , int direction , int turn , vector<vector<int>>& grid){
+        if(dp[currx][curry][direction][turn] != -1) return dp[currx][curry][direction][turn];
         int nextValue = grid[currx][curry] == 2 ? 0 : 2;
         int goForward = 0;
         // only when the sequence is maintained
@@ -20,12 +22,13 @@ public:
             }
         }
 
-        return max(turnLelo , goForward);
+        return dp[currx][curry][direction][turn] = max(turnLelo , goForward);
 
     }
     int lenOfVDiagonal(vector<vector<int>>& grid) {
         int m = grid.size() , n = grid[0].size();
         int maxi = 0;
+        memset(dp , -1 , sizeof(dp));
         for(int i = 0 ; i<m ; i++){
             for(int j = 0 ; j<n ; j++){
                 if(grid[i][j] == 1){
