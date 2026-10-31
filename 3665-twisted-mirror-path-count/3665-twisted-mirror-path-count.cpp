@@ -1,32 +1,35 @@
 class Solution {
 public:
     int mod = 1e9 + 7;
-    int dp[500][500][3];
-    int doit(int currx , int curry , int endx , int endy , vector<vector<int>>& grid , int dir){
-        if(currx == endx-1 && curry == endy-1) return 1;
-        if(currx < 0 || currx >= endx || curry < 0 || curry >= endy) return 0;
-        if(dp[currx][curry][dir] != -1) return dp[currx][curry][dir];
-        int total = 0;
-        if(grid[currx][curry] == 0){
-            int down = 0 , right = 0;
-            down+=doit(currx+1 , curry , endx , endy , grid , 1);
-            right+=doit(currx, curry+1 , endx , endy , grid , 2);
-            total = (total+down)%mod;
-            total = (total+right)%mod;
-        }
-        else{
-            if(dir == 1){
-                if(curry+1 < endy) total = (total + doit(currx , curry+1 , endx , endy , grid , 2))%mod;
-            }
-            else{
-                if(currx+1 < endx) total = (total+doit(currx+1 , curry , endx , endy , grid , 1))%mod;
-            }
-        }
-        return dp[currx][curry][dir] = total;
-    }
     int uniquePaths(vector<vector<int>>& grid){
         int m = grid.size() , n = grid[0].size();
-        memset(dp , -1 , sizeof(dp));
-        return doit(0 , 0 , m , n , grid , 0);
+        vector<vector<vector<int>>> dp(m , vector<vector<int>>(n , vector<int>(2 , 0)));
+        dp[m-1][n-1][0] = 1;
+        dp[m-1][n-1][1] = 1;
+        for(int i = m-1 ; i>=0 ; i--){
+            for(int j = n-1 ; j>=0 ; j--){
+                if(i == m-1 && j == n-1) continue;
+                for(int dir = 0 ; dir<=1 ; dir++){
+                    int total = 0;
+                    if(grid[i][j] == 0){
+                        int right = 0 , down = 0;
+                        if(i+1 < m) down = down + dp[i+1][j][0];
+                        if(j+1 < n) right = right + dp[i][j+1][1];
+                        total = (total + down)%mod;
+                        total = (total+right)%mod;
+                    }
+                    else{
+                        if(dir == 0){
+                            if(j+1 < n)  total = (total + dp[i][j+1][1])%mod;
+                        }
+                        else{
+                            if(i+1 < m) total = (total + dp[i+1][j][0])%mod;
+                        }
+                    }
+                    dp[i][j][dir] = total;
+                }
+            }
+        }
+        return dp[0][0][0];
     }
 };
