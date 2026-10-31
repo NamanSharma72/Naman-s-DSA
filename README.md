@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3355-zero-array-transformation-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3355-zero-array-transformation-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3524-find-x-value-of-array-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3524-find-x-value-of-array-i) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
@@ -1059,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1575-count-all-possible-routes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1575-count-all-possible-routes) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 ## Sliding Window
 |  |
 | ------- |
