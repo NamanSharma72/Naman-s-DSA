@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0403-frog-jump) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0480-sliding-window-median](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0491-non-decreasing-subsequences) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0343-integer-break) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -905,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0047-permutations-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0436-find-right-interval](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0767-reorganize-string) |
