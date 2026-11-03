@@ -1,3 +1,4 @@
 # Write your MySQL query statement below
-select round(count(case when a1.event_date= (select min(event_date) from activity where player_id = a1.player_id) + interval 1 day then 1 end)/count(distinct player_id) , 2) as fraction
-from activity a1
+select round(count(*)/(select count(distinct player_id) from activity) , 2) as fraction
+from activity a1 join (select player_id , min(event_date) as first_date from activity group by player_id)a2
+    on a1.player_id = a2.player_id and a1.event_date = a2.first_date + interval 1 day
