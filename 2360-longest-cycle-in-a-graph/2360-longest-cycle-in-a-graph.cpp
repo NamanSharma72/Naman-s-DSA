@@ -1,27 +1,22 @@
 class Solution {
 public:
     int maxi = -1;
-    bool doit(int node , vector<int> &edges , vector<int> &visited , 
+    void doit(int node , vector<int> &edges , vector<int> &visited , 
     vector<int> &pathVis , int num){
+        if(edges[node] == -1) return;
         visited[node] = num;
         pathVis[node] = 1;
-        if(edges[node] == -1) {
-            pathVis[node] = 0;
-            return false;
-        }
+        // if(edges[node] == -1) {
+        //     pathVis[node] = 0;
+        //     return;
+        // }
         if(!visited[edges[node]]){
-            if(doit(edges[node] , edges , visited , pathVis , num+1)) {
-                pathVis[node] = 0;
-                return true;
-            }
+            doit(edges[node] , edges , visited , pathVis , num+1);
         }
         else if(pathVis[edges[node]]){
             maxi = max(maxi , num - visited[edges[node]]+1);
-            pathVis[node] = 0;
-            return true;
         }
         pathVis[node] = 0;
-        return false;
     }
     int longestCycle(vector<int>& edges) {
         vector<int> visited(edges.size() , 0);
