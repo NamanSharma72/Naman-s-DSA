@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0016-3sum-closest) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0268-missing-number) |
