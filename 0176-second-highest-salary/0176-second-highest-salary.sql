@@ -1,8 +1,5 @@
 # Write your MySQL query statement below
-with firstTable as (
-select salary , dense_rank() over(order by salary desc) as `rank`
-from employee)
-select max(salary) as secondhighestsalary
-from firstTable
-where `rank` = 2
-
+select (select distinct salary
+from employee
+order by salary desc
+limit 1 offset 1) as secondhighestsalary
