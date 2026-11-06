@@ -7,27 +7,27 @@ public:
         sort(logs.begin() , logs.end() , cmp);
         vector<int> ans(queries.size());
         vector<pair<int , int>> transQuery;
-        for(int i = 0 ; i<queries.size() ; i++){
-            transQuery.push_back({queries[i] , i});
-        }
+        for(int i = 0 ; i<queries.size() ; i++) transQuery.push_back({queries[i] , i});
         sort(transQuery.begin() , transQuery.end());
         int l = 0 , r = 0;
-        unordered_map<int , int> mpp;
+        vector<int> freq(n+1 , 0);
+        int activeServers = 0;
         for(int i = 0 ; i<queries.size() ; i++){
             int start = transQuery[i].first-x , end = transQuery[i].first;
             while(l < logs.size() && logs[l][1] < start){
                 if(l < r){
-                    mpp[logs[l][0]]--;
-                    if(mpp[logs[l][0]] == 0) mpp.erase(logs[l][0]);
+                    freq[logs[l][0]]--;
+                    if(freq[logs[l][0]] == 0) activeServers--;
                 }
                 l++;
             }
             r = max(r , l);
             while(r < logs.size() && logs[r][1] <= end){
-                mpp[logs[r][0]]++;
+                freq[logs[r][0]]++;
+                if(freq[logs[r][0]] == 1) activeServers++;
                 r++;
             }
-            ans[transQuery[i].second] = n-mpp.size();
+            ans[transQuery[i].second] = n-activeServers;
         }
         return ans;
     }
