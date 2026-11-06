@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0436-find-right-interval](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0436-find-right-interval) |
@@ -1185,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0295-find-median-from-data-stream) |
@@ -1575,4 +1578,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2360-longest-cycle-in-a-graph) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
