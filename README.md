@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3686-number-of-stable-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3686-number-of-stable-subsequences) |
+| [3693-climbing-stairs-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3724-minimum-operations-to-transform-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3620-network-recovery-pathways) |
 | [3665-twisted-mirror-path-count](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3686-number-of-stable-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3686-number-of-stable-subsequences) |
+| [3693-climbing-stairs-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3693-climbing-stairs-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3791-number-of-balanced-integers-in-a-range) |
 | [3840-house-robber-v](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3840-house-robber-v) |
