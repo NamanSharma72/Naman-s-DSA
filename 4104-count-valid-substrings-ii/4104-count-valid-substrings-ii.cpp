@@ -12,11 +12,7 @@ public:
         int lastB = -1;
         while(r < s.size()){
             if(s[r] == 'b') lastB = r;
-            if(s[r] == 'c'){
-                if(lastB >= l && mpp[lastB] >= l){
-                    l = mpp[lastB]+1;
-                }
-            }
+            if(s[r] == 'c' && lastB >= l && mpp[lastB] >= l) l = mpp[lastB]+1;
             ans+=(r-l+1);
             r++;
         }
