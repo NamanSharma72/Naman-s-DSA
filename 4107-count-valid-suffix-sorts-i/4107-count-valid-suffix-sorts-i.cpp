@@ -9,7 +9,7 @@ public:
         vector<bool> equality(nums.size() , false);
         vector<int> diff(100001, 0);
         int different = 0;
-        for(int i = target.size()-1; i >= 0; i--) {
+        for(int i = target.size()-1 ; i >= threshold; i--) {
             if(diff[nums[i]] == 0) different++;
             diff[nums[i]]++;
             if(diff[nums[i]] == 0) different--;
