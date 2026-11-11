@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long countValidSubstrings(string s) {
-        unordered_map<int , int> mpp;
+        vector<int> mpp(s.size() , -1);
         int lastA = -1;
         for(int i = 0 ; i<s.size() ; i++){
             if(s[i] == 'a') lastA = i;
