@@ -1,6 +1,8 @@
 # Write your MySQL query statement below
-select person_name from (select person_name , sum(weight) over(order by turn) as total_weight
-from queue q1)q1
-where total_weight <= 1000
-order by total_weight desc
+with firstTable as 
+(select person_name , sum(weight) over(order by turn) as cumulativeWeight from queue)
+
+select person_name from firstTable
+where cumulativeWeight <= 1000
+order by cumulativeWeight desc
 limit 1
