@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3355-zero-array-transformation-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3355-zero-array-transformation-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3459-length-of-longest-v-shaped-diagonal-segment](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3459-length-of-longest-v-shaped-diagonal-segment) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3229-minimum-operations-to-make-array-equal-to-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3229-minimum-operations-to-make-array-equal-to-target) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -872,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2940-find-building-where-alice-and-bob-can-meet) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1132,6 +1136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Combinatorics
 |  |
@@ -1156,6 +1161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -1163,6 +1169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2762-continuous-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2762-continuous-subarrays) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
 |  |
 | ------- |
