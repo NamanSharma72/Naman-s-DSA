@@ -8,13 +8,11 @@ public:
                 else return false;
             }
         }
-        int maxBeforeIndex = INT_MIN;
-        for(int i = 0 ; i<index ; i++) maxBeforeIndex = max(maxBeforeIndex , nums[i]);
+        int maxBeforeIndex = index-1 < 0 ? INT_MIN : nums[index-1];
         int flag = 0;
-        for(int i = index+1 ; i<nums.size()-1 ; i++){
+        for(int i = index+1 ; i<nums.size(); i++){
             if(nums[i] < maxBeforeIndex) flag = 1;
         }
-        if(nums[nums.size()-1] < maxBeforeIndex) flag = 1;
         if(flag == 0) return true;
         int maxTillIndex = max(maxBeforeIndex , nums[index]);
         int countLess = 0;
