@@ -1,6 +1,4 @@
 # Write your MySQL query statement below
-select distinct l1.num as consecutivenums
-from logs l1 join logs l2
-    on l1.id = l2.id-1 and l1.num = l2.num
-join logs l3
-    on l2.id = l3.id-1 and l2.num = l3.num
+with firstTable as (select num , lag(num) over(order by id) as prev_num , lead(num) over(order by id) as next_num from logs)
+select distinct num as consecutiveNums from firstTable
+where num = prev_num and num = next_num
