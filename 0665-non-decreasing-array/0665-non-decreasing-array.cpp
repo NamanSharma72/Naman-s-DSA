@@ -8,6 +8,7 @@ public:
                 else return false;
             }
         }
+        if(index == -1) return true;
         int maxBeforeIndex = index-1 < 0 ? INT_MIN : nums[index-1];
         int flag = 0;
         for(int i = index+1 ; i<nums.size(); i++){
