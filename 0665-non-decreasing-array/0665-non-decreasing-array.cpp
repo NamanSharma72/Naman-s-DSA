@@ -12,7 +12,7 @@ public:
         for(int i = 0 ; i<index ; i++) maxBeforeIndex = max(maxBeforeIndex , nums[i]);
         int flag = 0;
         for(int i = index+1 ; i<nums.size()-1 ; i++){
-            if(nums[i] > nums[i+1] || nums[i] < maxBeforeIndex) flag = 1;
+            if(nums[i] < maxBeforeIndex) flag = 1;
         }
         if(nums[nums.size()-1] < maxBeforeIndex) flag = 1;
         if(flag == 0) return true;
