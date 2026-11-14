@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0139-word-break](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0268-missing-number) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0091-decode-ways) |
@@ -1115,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0480-sliding-window-median) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
