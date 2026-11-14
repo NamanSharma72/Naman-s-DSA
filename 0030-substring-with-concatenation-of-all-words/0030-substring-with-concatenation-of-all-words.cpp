@@ -10,13 +10,10 @@ public:
             int matching = 0;
             unordered_map<string , int> mppS;
             int l = offset , r = offset;
-            while(r < s.size()){
+            while(r+wordLength-1 < s.size()){
                 string word = "";
-                if(r+wordLength-1 < s.size()){
                     word = s.substr(r , wordLength);
                     mppS[word]++;
-                }
-                if(word != ""){
                     if(mppW.find(word) != mppW.end() && mppS[word] == mppW[word]) matching++;
                     while(mppS[word] > mppW[word]){
                         string word1 = s.substr(l , wordLength);
@@ -25,7 +22,6 @@ public:
                         l+=wordLength;
                     }
                     if(matching == required) ans.push_back(l);
-                }
                 r+=wordLength;
             }
         }
