@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2536-increment-submatrices-by-one](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2536-increment-submatrices-by-one) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2569-handling-sum-queries-after-update](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2569-handling-sum-queries-after-update) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2679-sum-in-a-matrix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2679-sum-in-a-matrix) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2503-maximum-number-of-points-from-grid-queries) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2679-sum-in-a-matrix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2679-sum-in-a-matrix) |
 | [2740-find-the-value-of-the-partition](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2740-find-the-value-of-the-partition) |
 | [2747-count-zero-request-servers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2747-count-zero-request-servers) |
