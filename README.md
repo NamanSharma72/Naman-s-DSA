@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0508-most-frequent-subtree-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0508-most-frequent-subtree-sum) |
+| [0547-number-of-provinces](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0547-number-of-provinces) |
 | [0606-construct-string-from-binary-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0684-redundant-connection) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0547-number-of-provinces](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0684-redundant-connection) |
 | [0752-open-the-lock](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0752-open-the-lock) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0827-making-a-large-island) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0797-all-paths-from-source-to-target) |
