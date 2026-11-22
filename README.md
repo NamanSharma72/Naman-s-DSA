@@ -824,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0127-word-ladder](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0139-word-break) |
@@ -1075,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -1182,6 +1184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0480-sliding-window-median) |
