@@ -1128,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2109-adding-spaces-to-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
