@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0055-jump-game) |
@@ -1156,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0090-subsets-ii) |
