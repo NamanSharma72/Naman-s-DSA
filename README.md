@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0047-permutations-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0090-subsets-ii) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0091-decode-ways) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0621-task-scheduler](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0621-task-scheduler) |
