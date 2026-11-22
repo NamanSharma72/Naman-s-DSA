@@ -6,6 +6,7 @@ public:
             ans.push_back(use);
             return;
         }
+        if(sum + candidates[idx] > target) return;
         sum+=candidates[idx];
         use.push_back(candidates[idx]);
         doit(idx , sum , candidates , target , use , ans);
