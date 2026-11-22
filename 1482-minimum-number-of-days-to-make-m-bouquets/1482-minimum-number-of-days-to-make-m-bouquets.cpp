@@ -13,6 +13,7 @@ public:
         return groups >= m;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
+        if(1LL * m * k > bloomDay.size()) return -1;
         int low = *min_element(bloomDay.begin(),bloomDay.end());
         int high = *max_element(bloomDay.begin(),bloomDay.end());
         int ans = -1;
