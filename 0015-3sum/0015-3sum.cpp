@@ -14,8 +14,8 @@ public:
                     ans.push_back({nums[i],nums[l],nums[r]});
                     l++;
                     r--;
-                    while(l < r && nums[l] == nums[l-1]) l++;
-                    while(r > l && nums[r] == nums[r+1]) r--;
+                    while(l < nums.size() && nums[l] == nums[l-1]) l++;
+                    while(r >= 0 && nums[r] == nums[r+1]) r--;
                 }
             }
         }
