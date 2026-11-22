@@ -1,23 +1,26 @@
 class Solution {
 public:
     bool isMatch(string s, string p) {
-        vector<vector<int>> dp(s.size()+1 , vector<int>(p.size()+1 , -1));
+        // vector<vector<int>> dp(s.size()+1 , vector<int>(p.size()+1 , -1));
+        vector<int> next(s.size()+1 , 0);
+        vector<int> curr(s.size()+1 , 0);
         for(int i = 0 ; i<=s.size() ; i++){
-            if(i == s.size()) dp[i][p.size()] = true;
-            else dp[i][p.size()] = false;
+            if(i == s.size()) next[i] = true;
+            else next[i] = false;
         }
         for(int pIdx = p.size()-1 ; pIdx >=0 ; pIdx--){
             for(int sIdx = s.size() ; sIdx >=0 ; sIdx--){
                 bool result = false;
                 if(sIdx < s.size() && (s[sIdx] == p[pIdx] || p[pIdx] == '?')){
-                    result = dp[sIdx+1][pIdx+1];
+                    result = next[sIdx+1];
                 }
                 else if(p[pIdx] == '*'){
-                    result = dp[sIdx][pIdx+1] || (sIdx < s.size() && dp[sIdx+1][pIdx]);
+                    result = next[sIdx] || (sIdx < s.size() && curr[sIdx+1]);
                 }
-                dp[sIdx][pIdx] = result;
+                curr[sIdx] = result;
             }
+            swap(curr , next);
         }
-        return dp[0][0];
+        return next[0];
     }
 };
