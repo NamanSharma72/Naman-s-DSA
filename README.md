@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -762,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0268-missing-number) |
@@ -1709,4 +1711,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0785-is-graph-bipartite) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
