@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0204-count-primes) |
+| [0213-house-robber-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0213-house-robber-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
