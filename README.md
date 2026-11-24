@@ -1468,6 +1468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0817-linked-list-components) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
