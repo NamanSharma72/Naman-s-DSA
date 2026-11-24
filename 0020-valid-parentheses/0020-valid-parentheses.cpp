@@ -3,15 +3,14 @@ public:
     bool isValid(string s) {
         stack<char> st;
         for(int i = 0 ; i<s.size() ; i++){
-            char ch = s[i];
-            if(ch == '(' || ch == '{' || ch == '[') st.push(ch);
-            else {
-                if(st.empty()) return false; 
-                if( (st.top() != '[' && ch == ']') || (st.top() != '{' && ch == '}') || (st.top() != '(' && ch == ')')) return false;
-                st.pop();
+            if(s[i] == '(' || s[i] == '{' || s[i] == '['){
+                st.push(s[i]);
+            }
+            else{
+                if(st.empty() || (s[i] == ')' && st.top() != '(') || (s[i] == '}' && st.top() != '{') || (s[i] == ']' && st.top() != '[')) return false;
+                else st.pop();
             }
         }
-        if(!st.empty()) return false;
-        return true;
+        return st.empty();
     }
 };
