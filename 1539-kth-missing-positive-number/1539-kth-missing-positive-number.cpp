@@ -1,15 +1,13 @@
 class Solution {
 public:
     int findKthPositive(vector<int>& arr, int k) {
-        vector<int> freq(2001 , 0);
-        for(int i = 0 ; i<arr.size() ; i++){
-            freq[arr[i]]++;
+        int low = 0 , high = arr.size()-1;
+        while(low <= high){
+            int mid = (low+high)/2;
+            int missing = arr[mid] - (mid+1);
+            if(missing >= k) high = mid-1;
+            else low = mid+1;
         }
-        int count = 0;
-        for(int i = 1 ; i<freq.size() ; i++){
-            if(freq[i] == 0) count++;
-            if(count == k) return i;
-        }
-        return -1;
+        return low + k;
     }
 };
