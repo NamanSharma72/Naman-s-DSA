@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0739-daily-temperatures) |
@@ -1464,6 +1465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0304-range-sum-query-2d-immutable) |
