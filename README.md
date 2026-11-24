@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0752-open-the-lock) |
@@ -704,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0769-max-chunks-to-make-sorted) |
@@ -1460,6 +1462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1260-shift-2d-grid) |
 | [2109-adding-spaces-to-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
