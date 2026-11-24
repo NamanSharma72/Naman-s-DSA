@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -772,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0769-max-chunks-to-make-sorted) |
