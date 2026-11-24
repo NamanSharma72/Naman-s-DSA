@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0403-frog-jump](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0436-find-right-interval](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0436-find-right-interval) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0778-swim-in-rising-water](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0778-swim-in-rising-water) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0343-integer-break) |
 | [0403-frog-jump](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0670-maximum-swap](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0670-maximum-swap) |
@@ -987,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0410-split-array-largest-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0930-binary-subarrays-with-sum](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0974-subarray-sums-divisible-by-k) |
