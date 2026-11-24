@@ -692,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0739-daily-temperatures) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -1312,6 +1313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0763-partition-labels) |
@@ -1476,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0707-design-linked-list) |
 | [0817-linked-list-components](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0817-linked-list-components) |
@@ -1497,6 +1500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0486-predict-the-winner) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2094-finding-3-digit-even-numbers) |
 ## Minimax
