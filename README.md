@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2045-second-minimum-time-to-reach-destination](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2045-second-minimum-time-to-reach-destination) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
