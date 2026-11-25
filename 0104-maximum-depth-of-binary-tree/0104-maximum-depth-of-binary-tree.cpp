@@ -11,9 +11,11 @@
  */
 class Solution {
 public:
-    int doit(TreeNode* Node){
-        if(Node == NULL) return 0;
-        return 1 + max(doit(Node->left) , doit(Node->right));
+    int doit(TreeNode* node){
+        if(node == NULL) return 0;
+        int left = doit(node->left);
+        int right = doit(node->right);
+        return 1 + max(left , right);
     }
     int maxDepth(TreeNode* root) {
         return doit(root);
