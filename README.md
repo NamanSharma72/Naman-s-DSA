@@ -801,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0189-rotate-array) |
@@ -1130,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0091-decode-ways) |
@@ -1471,6 +1473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/1260-shift-2d-grid) |
 | [2109-adding-spaces-to-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2109-adding-spaces-to-a-string) |
