@@ -1,24 +1,23 @@
 class Solution {
 public:
-    void doit(int idx , int sum , vector<int>& candidates , int target , vector<int> &use , vector<vector<int>> &ans){
-        if(sum > target || idx >= candidates.size()) return;
-        if(sum == target) {
+    void doit(int idx , vector<int>& candidates , int target , vector<int> &use ,vector<vector<int>> &ans , int sum){
+        if(sum == target){
             ans.push_back(use);
             return;
         }
-        if(sum + candidates[idx] > target) return;
-        sum+=candidates[idx];
+        if(sum > target) return;
+        if(idx >= candidates.size()) return;
         use.push_back(candidates[idx]);
-        doit(idx , sum , candidates , target , use , ans);
+        sum+=candidates[idx];
+        doit(idx , candidates , target , use , ans , sum);
         sum-=candidates[idx];
         use.pop_back();
-        doit(idx+1 , sum , candidates , target , use , ans);
+        doit(idx+1 , candidates , target , use , ans , sum);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        sort(candidates.begin() , candidates.end());
         vector<int> use;
         vector<vector<int>> ans;
-        doit(0 , 0 , candidates , target , use , ans);
+        doit(0 , candidates , target , use , ans , 0);
         return ans;
     }
 };
