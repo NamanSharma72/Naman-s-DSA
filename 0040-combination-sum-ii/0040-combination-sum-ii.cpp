@@ -10,6 +10,7 @@ public:
         unordered_set<int> st;
         for(int i = idx ; i<candidates.size() ; i++){
             if(st.count(candidates[i])) continue;
+            if(sum+candidates[i] > target) break;
             use.push_back(candidates[i]);
             st.insert(candidates[i]);
             sum+=candidates[i];
