@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0213-house-robber-ii) |
+| [0216-combination-sum-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -1214,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0216-combination-sum-iii) |
 | [0491-non-decreasing-subsequences](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0491-non-decreasing-subsequences) |
 | [0773-sliding-puzzle](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0773-sliding-puzzle) |
 | [0797-all-paths-from-source-to-target](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/0797-all-paths-from-source-to-target) |
