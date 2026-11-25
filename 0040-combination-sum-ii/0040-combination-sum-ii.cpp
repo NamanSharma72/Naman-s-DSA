@@ -7,12 +7,10 @@ public:
         }
         if(sum > target) return;
         if(idx >= candidates.size()) return;
-        unordered_set<int> st;
         for(int i = idx ; i<candidates.size() ; i++){
-            if(st.count(candidates[i])) continue;
+            if(i > idx && candidates[i] == candidates[i-1]) continue;
             if(sum+candidates[i] > target) break;
             use.push_back(candidates[i]);
-            st.insert(candidates[i]);
             sum+=candidates[i];
             doit(i+1 , candidates , target , use , ans , sum);
             sum-=candidates[i];
