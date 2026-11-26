@@ -852,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1500,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2679-sum-in-a-matrix](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/2679-sum-in-a-matrix) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+| [3360-stone-removal-game](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Indexed Tree
 |  |
