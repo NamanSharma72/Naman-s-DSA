@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Binary Search
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3906-count-good-integers-on-a-grid-path](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3906-count-good-integers-on-a-grid-path) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Graph Theory
 |  |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3724-minimum-operations-to-transform-array](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3724-minimum-operations-to-transform-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Naman2004-cyber/Naman-s-DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Monotonic Stack
 |  |
 | ------- |
